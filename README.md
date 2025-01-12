@@ -1,2 +1,8 @@
 # -GDS-Challenge-submission
-the code and readme for the Gov.UK inversity challenge
+the readme for the Gov.UK inversity challenge
+18/12/24 used figma to make a simple search icon and make a wireframe for the page(later scrapped)
+19/12/24 and up to the beginning of the christmas holiday i was doing market research. this involved looking at and using the Gov.UK website and seeing what issues or irritations appeared. most of the large articles took a long time to read through and the information in them varied a lot covering a broad spectrum which is good unless you have to find one specific thing. that's why i decided to make an additional searchbar for every page; it would be a small circular search icon that when pressed on would expand into a searchbar that the user could use to search that page for specific words or phrases
+2/1/25 downloaded the figma app and made some changes to the magnifying glass icon. Made it a more professional design by using a pre-made icon(unfortunately it wasn't added into the website page)
+6/1/25 Found out how to make a website with code and the notepad html. Used ChatGPT to make base for main page.
+7/1/25 Made some major design improvements and most of the main components of the main page were complete, links to gov.uk pages and a searchbar.
+8/1/25 ChatGPT struggled to improve the code much further whenever i tried to get it to edit something it removed a lot of code. Planned to have a functioning sidebar menu that would drop in and out, because of the loss of major components i took an older version of website to submit with less of the design improvements; this also meant that the main feature i added(the page specific search to not function correctly unfortunately)
